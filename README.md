@@ -10,7 +10,7 @@ A Shiny Healthcare Analytics Dashboard Using  Simulated Healthcare Data for Line
 
 ## Included Files and Folders
 
-- **Files:** 1 files uploaded
+- **Files:** Rely on simulated Healthcare dataset
 
 ## GitHub Actions
 
@@ -29,7 +29,7 @@ To run this application locally:
 install.packages(c("shiny", "renv"))
 
 # Run the application
-shiny::runApp()
+shiny::runApp("regression_modeling_app.R")
 ```
 
 ## Deployment
@@ -44,5 +44,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Author
 
 Created using Shiny App to GitHub Publisher
+
 
 
