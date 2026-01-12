@@ -34,7 +34,6 @@ shiny::runApp()
 
 ## Deployment
 
-- **GitHub Pages:** https://Kiplagatnoel.github.io/regression_modeling_app/
 - **Repository:** https://github.com/Kiplagatnoel/regression_modeling_app
 - **GitHub Actions:** https://github.com/Kiplagatnoel/regression_modeling_app/actions
 
@@ -45,4 +44,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Author
 
 Created using Shiny App to GitHub Publisher
+
 
